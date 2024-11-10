@@ -1,4 +1,5 @@
-package dev6;
+/*Write a JAVA program to find the maximum and minimum elements in an array*/
+
 public class Q2 {
 	    public static int recursiveMax(int[] arr, int n) {
 	        if (n == 1) {
