@@ -1,4 +1,6 @@
-package dev5;
+/*Given an unsorted array with both positive and negative elements, write a JAVA program 
+to find the smallest positive number missing from the array*/
+
 import java.util.*;
 public class Q5 {
 	    public static int findSmallestMissingPositive(int[] arr) {
@@ -24,7 +26,8 @@ public class Q5 {
 	        for (int i = 0; i < n; i++) {
 	            arr[i] = sc.nextInt();}
 	        int result = findSmallestMissingPositive(arr);
-	        System.out.println("Smallest missing positive number: " + result);}}
+	        System.out.println("Smallest missing positive number: " + result);
+	    }}
 	        
 	       
 
