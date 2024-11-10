@@ -1,4 +1,8 @@
-package dev5;
+/*Write a JAVA program to find the largest sum contiguous subarray in an array. A largest 
+sum contiguous subarray is a subarray of the original array whose elements are present 
+contiguously and has a sum of the elements that is maximum among all the contiguous 
+subarrays*/
+
 import java.util.*;
 public class Q4 {
 	    public static void main(String[] args) {
