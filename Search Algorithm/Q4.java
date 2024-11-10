@@ -1,4 +1,6 @@
-package dev8;
+/*Given an array of integers, check if a given value is present in the array using recursive Binary
+Search algorithm. Display the position of the value if found, and “NOT PRESENT” if not*/
+
 public class Q4 {
 	    public static int recursiveBinarySearch(int[] arr, int target, int low, int high) {
 	        if (low > high) {
