@@ -1,4 +1,6 @@
-package dev6;
+/*Given an unsorted array with both positive and negative elements, write a JAVA program to 
+find the smallest positive number missing from the array*/
+
 public class Q8 {
 	    public static int recursiveSPos(int[] arr, int current) {
 	        if (current > arr.length) {
@@ -16,4 +18,5 @@ public class Q8 {
 	    public static void main(String[] args) {
 	        int[] arr = {3, -2, 1, 5, -4, 2};
 	        int smallestPositive = recursiveSPos(arr, 1);
-	        System.out.println("The smallest positive number missing from the array is: " + smallestPositive);}}
+	        System.out.println("The smallest positive number missing from the array is: " + smallestPositive);
+	    }}
