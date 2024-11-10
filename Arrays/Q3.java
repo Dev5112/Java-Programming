@@ -1,4 +1,6 @@
-package dev8;
+/*Given an array of integers, write a JAVA program to find, if reversing a sub-array makes 
+the array sorted*/
+
 public class Q3 {
 	    public static void main(String[] args) {
 	        int[] arr = {1, 5, 3, 4, 2, 6};
