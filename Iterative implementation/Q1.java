@@ -1,4 +1,5 @@
-package dev5;
+/*Write a JAVA program to find the sum of n numbers present in an array*/
+
 import java.util.*;
 public class Q1 {
 	    public static void main(String[] args) {
