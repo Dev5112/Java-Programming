@@ -1,4 +1,5 @@
-package dev6;
+/*Write a JAVA program to find the factorial of a given number*/
+
 public class Q3 {
 	    public static int recursiveFactorial(int n) {
 	        if (n == 0 || n == 1) {
