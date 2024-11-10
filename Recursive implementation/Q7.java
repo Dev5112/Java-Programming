@@ -1,4 +1,5 @@
-package dev6;
+/*Write a JAVA program to compute the nth power of a given number*/
+
 public class Q7 {
 	    public static double recursivePower(double base, int exponent) {
 	        if (exponent == 0) {
