@@ -1,4 +1,5 @@
-package dev5;
+/*Write a JAVA program to generate the nth Fibonacci number*/
+
 import java.util.*;
 public class Q8n {
 	    public static void main(String[] args) {
@@ -17,6 +18,7 @@ public class Q8n {
 	                c = a + b;
 	                a = b;
 	                b = c;}
-	            System.out.print("The Fibonacci number is : " + c);}}}
+	            System.out.print("The Fibonacci number is : " + c);
+		 }}}
 	        
 
