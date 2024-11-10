@@ -1,4 +1,5 @@
-package dev6;
+/*Write a JAVA program to generate the nth Fibonacci number*/
+
 public class Q4 {
 	    public static int recursiveFibonacci(int n) {
 	        if (n == 0 || n == 1) {
@@ -8,5 +9,6 @@ public class Q4 {
 	    public static void main(String[] args) {
 	        int n = 4;
 	        int fibonacci = recursiveFibonacci(n);
-	        System.out.println("The " + n + "th Fibonacci number is: " + fibonacci);}}
+	        System.out.println("The " + n + "th Fibonacci number is: " + fibonacci);
+	    }}
 	   
