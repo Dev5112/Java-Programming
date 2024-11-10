@@ -1,4 +1,5 @@
-package dev6;
+/*Write a JAVA program to convert a given decimal number to its hexadecimal equivalent*/
+
 public class Q6 {
 	    public static String recursiveDecimalToHexadecimal(int decimal) {
 	        if (decimal == 0) {
@@ -26,4 +27,5 @@ public class Q6 {
 	    public static void main(String[] args) {
 	        int decimal = 223;
 	        String hexadecimal = recursiveDecimalToHexadecimal(decimal);
-	        System.out.println("The hexadecimal equivalent of " + decimal + " is: " + hexadecimal);}}
+	        System.out.println("The hexadecimal equivalent of " + decimal + " is: " + hexadecimal);
+	    }}
