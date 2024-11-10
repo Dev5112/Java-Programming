@@ -1,4 +1,5 @@
-package dev5;
+/*Write a JAVA program to find the maximum and minimum elements in an array*/
+
 import java.util.*;
 public class Q2 {
 	    public static void main(String[] args) {
