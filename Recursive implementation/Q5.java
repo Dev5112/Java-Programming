@@ -1,4 +1,5 @@
-package dev6;
+/*Write a JAVA program to find the GCD of two given numbers*/
+
 public class Q5 {
 	    public static int recursiveGCD(int a, int b) {
 	        if (b == 0) {
