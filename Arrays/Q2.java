@@ -1,4 +1,7 @@
-package dev8;
+/*Given two sorted arrays, write a JAVA program to sort the elements of these arrays without 
+using any extra array so that first half of sorted elements will lie in first array and second 
+half lies in second array*/
+
 import java.util.*;
 public class Q2 {
     public static void main(String[] args) {
