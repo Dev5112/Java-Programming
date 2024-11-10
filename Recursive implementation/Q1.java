@@ -1,4 +1,4 @@
-package dev6;
+/*Write a JAVA program to find the sum of n numbers present in an array*/
 public class Q1 {
 	    public static int recursiveSum(int[] arr, int n) {
 	        if (n == 0) {
