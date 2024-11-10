@@ -1,4 +1,7 @@
-package dev5;
+/*Given an unsorted array, write a JAVA program reorder the elements of the array to store 
+the numbers as maximum, minimum, second maximum, second minimum, third 
+maximum, third minimum, and so on. (I/p: 1 2 3 4 5, O/p: 5 1 4 2 3)*/
+
 import java.util.*;
 public class Q6 {
 	    public static void main(String[] args) {
@@ -20,6 +23,7 @@ public class Q6 {
 	                result[i] = arr[minIndex++];}}
 	        System.out.print("The reordered array is:");
 	        for (int num : result) {
-	            System.out.print(num + " ");}}}
+	            System.out.print(num + " ");
+		}}}
 	       
 
