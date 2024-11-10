@@ -1,4 +1,6 @@
-package dev7;
+/*Write a JAVA program to arrange n numbers present in a given array in ascending order 
+using Bubble sort algorithm*/
+
 public class Q1 {
 	    public static void main(String[] args) {
 	        int[] arr = {64, 34, 25, 12, 22, 11, 90}; 
