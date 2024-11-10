@@ -1,4 +1,5 @@
-package dev5;
+/*Write a JAVA program to rotate (left or right) the array by k positions*/
+
 import java.util.*;
 public class Q3 {
     public static void main(String[] args) {
