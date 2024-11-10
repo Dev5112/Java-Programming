@@ -1,4 +1,6 @@
-package dev8;
+/*Given an array of integers, check if a given value is present in the array using iterative Binary
+Search algorithm. Display the position of the value if found, and “NOT PRESENT” if not*/
+
 public class Q3 {
 	    public static void main(String[] args) {
 	        int[] arr = {10, 20, 30, 40, 50};
