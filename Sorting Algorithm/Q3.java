@@ -1,4 +1,6 @@
-package dev7;
+/*Write a JAVA program to arrange n numbers present in a given array in ascending order using 
+Selection sort algorithm*/
+
 public class Q3 {
 	    public static void main(String[] args) {
 	        int[] arr = {25, 12, 22, 11};
