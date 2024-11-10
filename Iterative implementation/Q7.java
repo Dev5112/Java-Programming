@@ -1,4 +1,5 @@
-package dev5;
+/*Write a JAVA program to find the factorial of a given number*/
+
 import java.util.*;
 public class Q7 {
 	public static int factorial(int n) {
@@ -10,6 +11,7 @@ public class Q7 {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a number : ");
 		int n = sc.nextInt();
-		System.out.println("Factorial is : " +factorial(n));}}
+		System.out.println("Factorial is : " +factorial(n));
+	}}
 		
 			
