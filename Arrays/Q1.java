@@ -1,4 +1,8 @@
-package dev8;
+/*Given an array of positive numbers, a reduction operation involves subtracting the smallest 
+number of the array from each element of the array. Write a JAVA program to perform 
+reduction till no elements left in the array. Print the elements left after each reduction and 
+total number of reductions performed*/
+
 import java.util.*;
 public class Q1 {
 	    public static void main(String[] args) {
