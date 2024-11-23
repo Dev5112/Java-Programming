@@ -1,5 +1,6 @@
-package dev8;
-public class m2 {
+/*Write a JAVA program to print the duplicate elements in a given array of n numbers.*/
+
+public class Q5 {
 	    public static void printDuplicates(int[] arr) {
 	        boolean foundDuplicate = false; 
 	        for (int i = 0; i < arr.length; i++) {
