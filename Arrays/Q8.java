@@ -1,5 +1,7 @@
-package dev8;
-public class m5 {
+/*Given a list n numbers, write a JAVA program to find the element that appears
+maximum number of times.*/
+
+public class Q8 {
 	    public static void main(String[] args) {
 	        int[] numbers = {1, 3, 2, 3, 4, 3, 2, 1}; 
 	        int maxElement = findMaxOccurrence(numbers);
