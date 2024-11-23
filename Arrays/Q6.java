@@ -1,5 +1,7 @@
-package dev8;
-public class m3 {
+/*Given an array of n-1 unique elements from 1 to n with a number missing. Write a
+JAVA program to find the missing number.*/
+
+public class Q6 {
 	    public static int findMissingNumber(int[] arr, int n) {
 	        int expectedSum = n * (n + 1) / 2;
 	        int actualSum = 0;
