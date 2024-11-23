@@ -1,3 +1,5 @@
+/*Given an unsorted array of n elements, write a JAVA program to find the first
+element, which is repeated.*/
 
 public class Q4 {
 	    public static Integer findFirstRepeated(int[] arr) {
