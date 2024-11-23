@@ -1,5 +1,7 @@
-package dev8;
-public class m4 {
+/*Write a JAVA program to find the element pair with minimum/maximum difference
+in a given array of integers.*/
+
+public class Q7 {
 	public static void findMaxDifferencePair(int arr[]) {
         if (arr.length < 2) {
             System.out.println("Array must contain at least two elements.");
