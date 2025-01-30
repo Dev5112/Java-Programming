@@ -1,3 +1,6 @@
+/*Write a JAVA program to find the minimum spanning tree of a given weighted connected
+graph using Kruskal’s algorithm.*/
+
 package dev3;
 import java.util.*;
 class Edge implements Comparable<Edge> {
